@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d834423ec718371428efa841f3f87504, type: 3}
+  m_Name: Silverstone
+  m_EditorClassIdentifier: 
+  circuitName: Silverstone Circuit
+  circuitImage: {fileID: 5688266501281967177, guid: f857ff5164683c647af184c192d00318, type: 3}
+  circuitDescription: 
+  hint: Host of the very first Formula 1 World Championship race

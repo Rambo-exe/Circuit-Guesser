@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d834423ec718371428efa841f3f87504, type: 3}
+  m_Name: Zandvoort(3 Turn)
+  m_EditorClassIdentifier: 
+  circuitName: Circuit Zandvoort
+  circuitImage: {fileID: -4886186522396401896, guid: a95df174a3432cf4bb9833143e786dd2, type: 3}
+  circuitDescription: 
+  hint: Known for its steeply banked corners by the seaside

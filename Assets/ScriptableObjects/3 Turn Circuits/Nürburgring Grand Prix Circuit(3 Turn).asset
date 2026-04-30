@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d834423ec718371428efa841f3f87504, type: 3}
+  m_Name: "N\xFCrburgring Grand Prix Circuit(3 Turn)"
+  m_EditorClassIdentifier: 
+  circuitName: "N\xFCrburgring Grand Prix Circuit"
+  circuitImage: {fileID: 205635013620390832, guid: 389f7eefbe99eb5499273b49aec9b25a, type: 3}
+  circuitDescription: 
+  hint: "The modern GP layout of the world\u2019s most famous racing circuit"

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d834423ec718371428efa841f3f87504, type: 3}
+  m_Name: Monaco
+  m_EditorClassIdentifier: 
+  circuitName: Circuit de Monaco
+  circuitImage: {fileID: 2729359691019909985, guid: 06d7c1cf356674a46817b9cf27d52df5, type: 3}
+  circuitDescription: 
+  hint: Famous for its tight street layout and iconic tunnel section
